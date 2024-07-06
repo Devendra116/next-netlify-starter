@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Xap" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A Cross-Chain Payment platform for USDC (launching soon...) 
         </p>
       </main>
 
